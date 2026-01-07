@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+whisper
+ffmpeg-python
+numpy
+scikit-learn
+python-multipart
+python-dotenv

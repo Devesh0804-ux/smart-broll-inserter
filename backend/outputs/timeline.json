@@ -1,0 +1,12 @@
+{
+  "a_roll_duration": 10,
+  "insertions": [
+    {
+      "start_sec": 1.0,
+      "duration_sec": 2.5,
+      "broll_id": "broll_3",
+      "confidence": 0.9,
+      "reason": "Manual test insertion"
+    }
+  ]
+}
